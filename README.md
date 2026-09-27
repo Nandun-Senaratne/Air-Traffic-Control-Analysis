@@ -63,7 +63,3 @@ README.md
 3. Run `02_DWBI_silver.ipynb` to clean, enrich, and type-cast the data.
 4. Run `03_DWBI_gold.ipynb` to build the star schema and data marts.
 5. Export the gold tables to CSV (see [`WALKTHROUGH.md`](./WALKTHROUGH.md#exporting-for-power-bi)) and import them into Power BI Desktop.
-
-## AI usage disclosure
-
-Parts of this project's planning, debugging, and documentation were done with AI assistance (Claude), used as a supporting tool for brainstorming ETL logic, debugging a data-quality issue (duplicate rows from a non-idempotent table load), and drafting this documentation set — consistent with the module's CLEAR framework for AI use. All implementation decisions, code execution, and validation were carried out and verified by the author.
