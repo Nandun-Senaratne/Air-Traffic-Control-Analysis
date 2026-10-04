@@ -2,6 +2,11 @@
 
 An end-to-end Data Warehousing & Business Intelligence solution built on **Databricks** (Unity Catalog, Delta Lake, PySpark) with a **Power BI** presentation layer, developed for the IT3101 Data Warehousing & BI module assignment (BSc (Hons) in Computing, Faculty of Computing).
 
+Group Members
+
+<img width="864" height="169" alt="image" src="https://github.com/user-attachments/assets/5da48993-0bd4-44d3-9c6e-1d5caf00c662" />
+
+
 ## Business scenario
 
 The project models an airline operations analytics system: tracking every scheduled flight leg (route, carrier, schedule vs. actual times, delays, cancellations, diversions) to answer questions a Network Planning or Airport Operations team would actually ask — *which routes chronically underperform, which carriers have the worst on-time record, and which airports have the roughest operational days.*
